@@ -1,8 +1,0 @@
-maven is tool is used buld code
-build mean 
-mvn archetype:genarate file grerate mean pom.xml and src file 
-mvn compile = get out put of code expected
-mvn test = function test 
-mvn package = convert multiple file of code int single file like war, jar and ear file
-mvn install == install the depence of code to run in pom.xml
-mvn clean = clean the traget file 
